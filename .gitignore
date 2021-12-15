@@ -1,0 +1,43 @@
+.DS_Store
+node_modules
+/dist
+/old
+/old/index.html
+old.zip
+
+/answer
+answer.zip
+
+/planbview
+planbview.zip
+
+/40x
+40x.zip
+
+/40y
+40y.zip
+
+/43x
+43x.zip
+
+/43y
+43y.zip
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*

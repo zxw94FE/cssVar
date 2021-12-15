@@ -1,0 +1,16 @@
+{
+	"name": "css-var",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"vue": "2.6.11"
+	},
+	"devDependencies": {},
+	"engines": {
+		"node": ">= 10.0.0",
+		"npm": ">= 5.6.0"
+	}
+}
